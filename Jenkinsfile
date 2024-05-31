@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Define the Python version and virtual environment path
-        PYTHON_VERSION = '3.8'
+        PYTHON_VERSION = '3.10'
         VENV_DIR = 'venv'
     }
 
